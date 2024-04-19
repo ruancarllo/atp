@@ -11,7 +11,7 @@ Este pequeno repositório contém a resolução da lista de exercícios sobre la
 Para executar cada um dos exercícios, instale o GCC e o Visual Studio Code em seu computador, abra um terminal na pasta referente a este repositório, e execute os comandos conforme o modelo:
 
 ```shell
-g++ exercicio_n.c++ -o exercicio_n
+g++ exercicio_n.cpp -o exercicio_n
 ```
 
 ```shell
